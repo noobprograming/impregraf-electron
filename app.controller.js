@@ -4,7 +4,7 @@ myApp.config(function($stateProvider) {
   var helloState = {
     name: 'dashboard',
     url: '/dashboard',
-    template: '<h3>hello world!</h3>'
+    template: ''
   }
 
   var aboutState = {
